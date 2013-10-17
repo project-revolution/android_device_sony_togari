@@ -1,1 +1,1 @@
-add_lunch_combo revolution_togari-eng
+add_lunch_combo aosp_togari-eng
