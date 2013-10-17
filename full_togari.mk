@@ -23,7 +23,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/sony/common/resources-xxhdpi.mk)
 
 # Inherit from togari device
-$(call inherit-product, device/sony/togari/togari.mk)
+$(call inherit-product, device/sony/togari/device.mk)
 
 # Set those variables here to overwrite the inherited values.
 PRODUCT_NAME := Revolution_togari
